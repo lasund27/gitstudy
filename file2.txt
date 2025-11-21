@@ -2,4 +2,6 @@ a go to b
 b go to c
 c go to d
 d go to e
-e go to f
+e and f and g
+g goto h
+h goto i
